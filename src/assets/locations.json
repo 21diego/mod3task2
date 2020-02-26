@@ -1,0 +1,34 @@
+{
+  "locations": [
+    {
+      "name":"AJ Katzenmaier Elementary",
+      "adress": "24 W. Walton St., Chicago, IL 60610",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d132530.07453061428!2d-87.67345508610717!3d41.889777838869236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd34e07f69da7%3A0x15e198c063fc787c!2sAJ%20Katzenmaier%20Elementary!5e0!3m2!1ses!2sbr!4v1579033132893!5m2!1ses!2sbr"
+    },
+    {
+      "name":"Greenbay Elementary",
+      "adress":"1734 N. Orleans St., Chicago, IL 60614",
+      "mapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.02588436886!2d-87.64002798511264!3d41.91380227921931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd34073f306a3%3A0x9e1726bbf8f23f0e!2s1734%20N%20Orleans%20St%2C%20Chicago%2C%20IL%2060614%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1579206455857!5m2!1ses-419!2sar"
+    },
+    {
+      "name":"Howard A Yeager Elementary",
+      "adress":"2245 N. Southport Ave., Chicago, IL 60614",
+      "mapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.585683085622!2d-87.66511458511226!3d41.92326457921858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2e37f9b8d2d%3A0x62ad8b907dd755d6!2s2245%20N%20Southport%20Ave%2C%20Chicago%2C%20IL%2060614%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1579206581115!5m2!1ses-419!2sar"
+    },
+    {
+      "name":"Marjorie P Hart Elementary",
+      "adress":"2625 N. Orchard St., Chicago, IL 60614",
+      "mapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.2919146584327!2d-87.64808628511197!3d41.92957827921812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd30f2630e551%3A0x3e719e44a5cef714!2s2625%20N%20Orchard%20St%2C%20Chicago%2C%20IL%2060614%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1579206648039!5m2!1ses-419!2sar"
+    },
+    {
+      "name":"North Elementary",
+      "adress":"1409 N. Ogden Ave., Chicago, IL 60610",
+      "mapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.337739384588!2d-87.64837698511293!3d41.907097779219825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd33af0e6ccc3%3A0x26c81c1d557667da!2s1409%20N%20Ogden%20Ave%2C%20Chicago%2C%20IL%2060610%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1579206712107!5m2!1ses-419!2sar"
+    },
+    {
+      "name":"South Elementary",
+      "adress":"2101 N. Fremont St., Chicago, IL 60614",
+      "mapUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.7479505250676!2d-87.65355538511241!3d41.91977677921889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd3196fb41dc7%3A0x970be7f7d6336df5!2s2101%20N%20Fremont%20St%2C%20Chicago%2C%20IL%2060614%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1579206748804!5m2!1ses-419!2sar"
+    }
+  ]
+}
